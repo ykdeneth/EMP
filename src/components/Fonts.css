@@ -1,0 +1,57 @@
+@font-face {
+    font-family: Birds;
+    src: url(../src/Fonts/BirdsOfParadisePersonalUseOnly-dX7X.ttf);
+}
+.brds{
+    font-family: "Birds";
+}
+@font-face {
+    font-family: earf-l;
+    src: url(../src/Fonts/EarflineItalic-51dxx.ttf);
+}
+.earf-l{
+    font-family: "earf-l";
+}
+@font-face {
+    font-family: earf;
+    src: url(../src/Fonts/EarflineRegular-6YPpM.ttf);
+}
+.earf{
+    font-family: "earf";
+}
+@font-face {
+    font-family: "You";
+    src: url(../src/Fonts/YoureinvitedHeavy-dVJK.otf);
+}
+.You{
+    font-family: "You";
+    font-weight: bolder;
+}
+@font-face {
+    font-family: You-l;
+    src: url(../src/Fonts/Youreinvited-mOJP.otf);
+}
+.You-l{
+    font-family: "You-l";
+}
+@font-face {
+    font-family: champ;
+    src: url(../src/Fonts/ChampagneAndLimousinesBold-myr2.ttf);
+}
+.champ{
+    font-family: "champ";
+}
+@font-face {
+    font-family: Poppins-BoldItalic;
+    src: url(../src/fonts/Poppins-BoldItalic.ttf);
+}
+@font-face {
+    font-family: Poppins-Medium;
+    src: url(../src/fonts/Poppins-Medium.ttf);
+}
+.popins_b{
+  font-family: "Poppins-BoldItalic";
+}
+.popins_m{
+  font-family: "Poppins-Medium";
+}
